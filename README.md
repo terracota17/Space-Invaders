@@ -14,7 +14,7 @@ How to Execute the Game:
 
 difficulty: Choose from ["EASY", "HARD", "INSANE"].
 seed: Any integer number (e.g., "0").
-Example
-To run the game with easy difficulty and seed 0, use the arguments: ["EASY", "0"].
+
+Example To run the game with easy difficulty and seed 0, use the arguments: ["EASY", "0"].
 
 ------------------------------------------------------------------------------
