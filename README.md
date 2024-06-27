@@ -1,4 +1,4 @@
----------------------CLASSIC SPACE INVADEERS GAME IN JAVA-----------------------------------
+---------------------CLASSIC SPACE INVADERS GAME IN JAVA-----------------------------------
 
 How to Execute the Game:
   Follow these steps to run the game on your local computer:
